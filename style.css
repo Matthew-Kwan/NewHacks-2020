@@ -1,7 +1,10 @@
 body {
-	text-align: center;
+    background-color: #AFD275;
+    font-family: sans-serif;
+    text-align: center;
 }
 
 .header {
-	
+    color: #E7717D;
+    font-size: 400%;
 }
