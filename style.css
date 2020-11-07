@@ -2,6 +2,11 @@ html, body {
   height: 100%;
 }
 
+a {
+  text-decoration: none;
+  color: #026670;
+}
+
 body {
     align-items: center;
     justify-content: center;
